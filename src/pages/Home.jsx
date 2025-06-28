@@ -53,7 +53,7 @@ const Home = () => {
             </div>
           </div>
           {/* <div className='flex justify-center items-center'>
-            <img src='https://res.cloudinary.com/dg4jqvgqr/image/upload/v1718809247/collegeMate/j4krjw9p1crgf6jklgps.svg' alt='img loading' className='w-6/12 mr-12'></img>
+            <img src='https://res.cloudinary.com/dg4jqvgqr/image/upload/v1718809247/NoteVerse/j4krjw9p1crgf6jklgps.svg' alt='img loading' className='w-6/12 mr-12'></img>
           </div> */}
         </div>
       </div>
