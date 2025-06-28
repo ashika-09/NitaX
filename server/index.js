@@ -16,7 +16,7 @@ app.use(cookieParser());
 app.use("/files", express.static(path.join(__dirname, "files")));
 app.use(
   cors({
-    origin: "https://collegmate.vercel.app",
+    origin: "https://nita-x.vercel.app",
     credentials: true, // if you're using cookies
   })
 );
